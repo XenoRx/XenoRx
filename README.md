@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Xeno</h1>
-<h3 align="center">C# Something</h3><br>
+<h1 align="center">Hi:3</h1>
+<h3 align="center">C#/Python Something</h3><br>
 
 <p align="center">
   <a href="https://github.com/XenoRx?tab=repositories">
